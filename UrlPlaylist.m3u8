@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:300
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:298.0,
+https://d500.d2mefast.net/tb/e/b1/ntencane_9._engalobolile_ft_kamaphanga_official_audio_h264_31674.mp4
+#EXT-X-ENDLIST
